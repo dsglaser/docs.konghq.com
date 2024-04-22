@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/kong/jekyll-generator-single-source.git
-  revision: 1652ba7ca0aa1104ad74edcc112f895261ac975f
+  revision: 574141b0590bbfb6f0a3990b4c34f6b348f4d270
   branch: i18n-spike
   specs:
     jekyll-generator-single-source (0.0.11)
